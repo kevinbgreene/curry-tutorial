@@ -6,5 +6,5 @@
  * @returns {Number} The sum of a, b and c
  */
 function threeSum(a, b, c) {
-  return a + b;
+  return a + b + c;
 }
